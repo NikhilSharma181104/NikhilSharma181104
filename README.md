@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45"/>
   </a>
   <a href="https://leetcode.com/u/Nikhil_Sharma_6227/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" width="45"/>
   </a>
   <a href="mailto:nikhilsharma181104@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="45"/>
