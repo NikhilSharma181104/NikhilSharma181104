@@ -33,7 +33,7 @@
   <a href="https://instagram.com/18_nikhil_11" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45"/>
   </a>
-  <a href="https://www.leetcode.com/nikhil_sharma_6227" target="_blank">
+  <a href="https://leetcode.com/u/Nikhil_Sharma_6227/" target="_blank">
     <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="45"/>
   </a>
   <a href="mailto:nikhilsharma181104@gmail.com" target="_blank">
