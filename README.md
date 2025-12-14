@@ -7,13 +7,6 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsharma181104&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 👨‍💻 About Me  
 - 🔭 Currently working on **Smart Healthcare Assistance System**  
 - 🌱 Learning **React.js, Next.js, REST APIs, and advanced frontend frameworks**  
