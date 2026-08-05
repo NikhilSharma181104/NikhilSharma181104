@@ -20,7 +20,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/nikhil-sharma" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhil-sharma-2aa75b407/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45"/>
   </a>
   <a href="https://instagram.com/18_nikhil_11" target="_blank">
@@ -39,18 +39,6 @@
 ### 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,git,github,vscode,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsharma181104&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsharma181104&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsharma181104&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
